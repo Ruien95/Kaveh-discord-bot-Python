@@ -50,4 +50,4 @@ async def on_message(message):
 
 
 keep_alive() #to keep the bot alive
-client.run(os.getenv("TOKEN"))
+client.run(os.getenv("TOKEN")) #your bot's token
